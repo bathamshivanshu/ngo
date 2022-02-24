@@ -1,0 +1,154 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.social-link li{list-style: none;display:block; float: left; margin-left: 10px;}
+.top{background-color: rgb(26, 209, 32);}
+.activee{background-color: rgb(26, 209, 32); border-radius: 10px;}
+nav ul li a
+{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+nav ul li a :hover
+{
+    text-decoration: none;
+    color: blue;
+}
+#notification
+{
+    font-weight: 700;
+}
+#notification a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+#notification a:hover
+{
+    color: blue;
+}
+.about img
+{
+    border-radius: 20px;
+}
+.about h1
+{
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+    padding-top: 30px;
+    font-size: 50px;
+}
+.about p
+{
+    font-family: serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+    padding-left: 20px;
+    width: 650px;
+}
+.links
+{
+    background-color: greenyellow;
+    color: #fff;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: larger;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.links:hover
+{
+    text-decoration: none;
+    color: #fff;
+    background-color: rgba(3, 94, 3, 0.767);
+    transition: 1s;
+}
+.link
+{
+    background-color: rgb(9, 53, 20);
+    color: #fff;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: larger;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.link:hover
+{
+    text-decoration: none;
+    color: #fff;
+    background-color:rgb(9, 53, 20);
+    transition: 2s;
+}
+#background img
+{
+    border-radius: 20px;
+}
+#background
+{
+    color: #fff;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("../images/atul-pandey-0f3bZHXZSz8-unsplash.jpg");
+    background-size: 100% 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    min-height: 100vh;
+    background-position: center;
+}
+#background h1
+{
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+    padding-top: 30px;
+    font-size: 50px;
+}
+#background p
+{
+    font-family: serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+}
+.help h1
+{
+    font-family: cursive;
+    font-weight: 600;
+    padding-top: 30px;
+    font-size: 50px;
+}
+.help h2
+{
+    font-family: cursive;
+    font-weight: 600;
+    padding-top: 30px;
+    font-size: 40px;
+}
+.help p
+{
+    font-family: serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+footer h6
+{
+    font-weight: 600;
+    font-size: 20px;
+    font-family: cursive;
+}
+footer{font-family:serif;font-size: 15px;}
+footer ul li{border-bottom: 1px solid #e9e9e9;
+width: 400px;}
+#social_link
+{
+    margin-top: 65px;
+    margin-left: 50px;
+}
+#social_link a{margin-left: 10px;}
